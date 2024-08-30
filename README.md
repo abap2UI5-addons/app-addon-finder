@@ -1,4 +1,4 @@
-# Launchpad App of abap2UI5
+# Maintain Apps & Addons of abap2UI5
 
 * Find Addons
 * Find Apps
