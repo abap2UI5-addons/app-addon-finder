@@ -1,5 +1,9 @@
 # Launchpad App of abap2UI5
 
+* Find Addons
+* Find Apps
+* Launchpad
+
 Former Part of abap2UI5 itself
 
 <br>
